@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
   
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dishi24&theme=dracula&show_icons=true" alt="dishi24's Github Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dishi24&theme=dracula&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drish08&theme=dracula&show_icons=true" alt="drish08's Github Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=drish08&theme=dracula&show_icons=true" />
   <p align="#center"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishi24&layout=compact&hide=html&theme=dracula&show_icons=true" alt="most used language" /></p>
 </div>
 
 <h1 align="center">Connect With Me !! 🤝</h1>
 <p align="center">
-<a href="https://github.com/dishi24" target="_blank">
+<a href="https://github.com/drish08" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
 <a href="https://www.linkedin.com/in/drishti-rana-54053a172/" target="_blank">
 <img alt = "LinkedIn"src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Stats</h1>
 
-[![Drishti's github activity graph](https://activity-graph.herokuapp.com/graph?username=dishi24&theme=dracula)](https://github.com/dishi24/github-readme-activity-graph)
+[![Drishti's github activity graph](https://activity-graph.herokuapp.com/graph?username=drish08&theme=dracula)](https://github.com/drish08/github-readme-activity-graph)
 <br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishi24" alt="dishi24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drish08" alt="drish08" /> </p>
 
 ![AMA](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)  
 ![Buit with love](http://ForTheBadge.com/images/badges/built-with-love.svg)
